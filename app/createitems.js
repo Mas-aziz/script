@@ -1,10 +1,3 @@
-/*
-
->Each item have 3 properties or keys: name, price, and image.
-
->Each value of each key will be used to display the right data to use for each item slot.
-
-*/
 item = new HashMap<>();
 item.put("name", "Es Dawet (1.5k)");
 item.put("price", "1500");
